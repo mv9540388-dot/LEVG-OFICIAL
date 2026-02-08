@@ -1,0 +1,7 @@
+{
+  "name": "LEVG Inversión Perú",
+  "description": "Plataforma líder de inversión inmobiliaria en Perú. Invierte en edificios y casas desde 20 soles con ganancias diarias garantizadas.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
